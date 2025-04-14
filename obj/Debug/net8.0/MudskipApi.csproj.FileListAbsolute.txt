@@ -1034,6 +1034,7 @@ C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\MudskipApi.dll
 C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\refint\MudskipApi.dll
 C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\MudskipApi.pdb
 C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\ref\MudskipApi.dll
-C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\o0d7uowi76-tslbqk5eir.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\1cuixpsvx8-e19jazlr9a.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\9534au2vpt-45xvx1i3ie.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\MudskipApi.sourcelink.json
+C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\o0d7uowi76-7ijferip60.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\1cuixpsvx8-xxdsqyxh9g.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Debug\net8.0\compressed\9534au2vpt-r3iddvcgdf.gz
