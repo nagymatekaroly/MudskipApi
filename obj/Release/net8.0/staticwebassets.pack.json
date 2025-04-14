@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\MudskipApi.styles.css"
     },
     {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\_redirects",
+      "PackagePath": "staticwebassets"
+    },
+    {
       "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
