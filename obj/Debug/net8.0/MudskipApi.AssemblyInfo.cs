@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MudskipApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6914fd09c3c3fc27f19cc4e8c81915147d3c1c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7ec6a308594bc31ed084401cbbb095ef31e996")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudskipApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudskipApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

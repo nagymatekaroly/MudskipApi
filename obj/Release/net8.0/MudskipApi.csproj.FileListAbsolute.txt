@@ -1020,9 +1020,6 @@ C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\nabzfrn5bb-
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\apmf3np0rj-tptq2av103.gz
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\kqomj49db2-lfu7j35m59.gz
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\cy8abxn5um-oyz0vx2fzb.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\o0d7uowi76-azez9fo238.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\1cuixpsvx8-ggm6e5o0qb.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\9534au2vpt-yjk7vo1ytq.gz
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\staticwebassets.build.endpoints.json
@@ -1037,3 +1034,10 @@ C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\MudskipApi.dll
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\refint\MudskipApi.dll
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\MudskipApi.pdb
 C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\ref\MudskipApi.dll
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\web.config
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\emcc-props.json
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\MudskipApi.staticwebassets.endpoints.json
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\o0d7uowi76-g9mj7xsnnp.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\1cuixpsvx8-38ieoexb5u.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\9534au2vpt-3oviis2vq5.gz

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudskipApi",
   "resources": {
-    "hash": "sha256-/Gp5ZMDYRGFJ+s8c8r4srY9ZMDe0sQduf4DoxwXU5PA=",
+    "hash": "sha256-Bq0pRW9BdoSGyVUgPyT2ApAgU0uJ8atJ9E3e1blo2FE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "MudskipApi.wasm": "sha256-aoQX6D4WHKiOBx6AnSRN2+TMz+ThQXDxdpMT3P42guk="
+      "MudskipApi.wasm": "sha256-jP1GkeE4i8r8xkFM0leISugIoF3fj29vkxj0fUuqMFw="
     },
     "pdb": {
-      "MudskipApi.pdb": "sha256-0MY/zSX/03z38+ugT0MgWGdgkL932WJhpVNOzmJbMEc="
+      "MudskipApi.pdb": "sha256-PcwOgiXqpAaxsRzjpHp4o5Q/pN9Lgu5eZ4wfDG8srWk="
     }
   },
   "cacheBootResources": true,
