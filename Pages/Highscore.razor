@@ -1,0 +1,161 @@
+@page "/highscore"
+@using System.Text.Json
+@using System.Text.Json.Serialization
+@inject IJSRuntime JS
+@inject NavigationManager Nav
+
+<h3 class="title">🏆 Highscore Menü</h3>
+
+<div class="form-container">
+    <button class="form-button" @onclick="LoadMyHighscores">🥇 My Highscore</button>
+
+    @for (int i = 1; i <= 5; i++)
+    {
+        <button class="form-button" @onclick="() => LoadLevelHighscores(i)">@($"{i}. Pálya")</button>
+    }
+
+    <button class="form-button" @onclick="() => LoadLevelHighscores(6)">🎓 Tutorial</button>
+</div>
+
+@if (!string.IsNullOrEmpty(error))
+{
+    <p class="error-message">@error</p>
+}
+
+@if (scores != null && scores.Any())
+{
+    <div class="score-container">
+        @foreach (var score in scores)
+        {
+            <div class="score-row">
+                <span class="score-right">@score.LevelName</span>
+                <span class="score-left">@($"{score.Highscore} pont")</span>
+            </div>
+        }
+
+        @{
+            var allLevels = new List<string> { "Level 1", "Level 2", "Level 3", "Level 4", "Level 5", "Tutorial" };
+            var missingLevels = allLevels
+                .Where(level => scores.All(s => s.LevelName != level || s.Highscore <= 0))
+                .ToList();
+
+            if (missingLevels.Any())
+            {
+                <div style="margin-top: 20px; color: orange; text-align: center;">
+                    <p>❗ Nincs pontod a következő pályákon:</p>
+                    <p>@string.Join(", ", missingLevels)</p>
+                </div>
+            }
+        }
+    </div>
+}
+
+@if (ranking != null && ranking.Any())
+{
+    <div class="score-container" style="margin-top: 30px;">
+        <h4 style="text-align: center; color: lime;">🏅 Ranglista – @GetLevelName(currentRankingLevelId)</h4>
+
+        @for (int i = 0; i < ranking.Count; i++)
+        {
+            <div class="score-row">
+                <span class="score-left">@($"{i + 1}. {ranking[i].Username}")</span>
+                <span class="score-right">@($"{ranking[i].HighscoreValue} pont")</span>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private string? error;
+    private List<MyScoreItem>? scores;
+    private List<RankingScore>? ranking;
+    private int currentRankingLevelId;
+
+    private async Task LoadMyHighscores()
+    {
+        error = null;
+        scores = null;
+        ranking = null;
+
+        try
+        {
+            var userId = await JS.InvokeAsync<string>("localStorage.getItem", "userId");
+            if (string.IsNullOrEmpty(userId))
+            {
+                error = "Nem vagy bejelentkezve.";
+                return;
+            }
+
+            var response = await JS.InvokeAsync<string>("fetchMyHighscoresByUserId", userId);
+            if (!string.IsNullOrEmpty(response))
+            {
+                scores = JsonSerializer.Deserialize<List<MyScoreItem>>(response);
+            }
+            else
+            {
+                error = "Nem érkezett adat a szervertől.";
+            }
+        }
+        catch (Exception ex)
+        {
+            error = "Hiba történt: " + ex.Message;
+        }
+    }
+
+    private async Task LoadLevelHighscores(int levelId)
+    {
+        error = null;
+        scores = null;
+        ranking = null;
+        currentRankingLevelId = levelId;
+
+        try
+        {
+            var response = await JS.InvokeAsync<string>("fetchLevelHighscores", levelId);
+            if (!string.IsNullOrEmpty(response))
+            {
+                var data = JsonSerializer.Deserialize<List<RankingScore>>(response);
+                ranking = data?
+                    .OrderByDescending(r => r.HighscoreValue)
+                    .ToList();
+            }
+            else
+            {
+                error = "Nem érkezett adat a szervertől.";
+            }
+        }
+        catch (Exception ex)
+        {
+            error = "Hiba történt: " + ex.Message;
+        }
+    }
+
+    private string GetLevelName(int levelId) => levelId switch
+    {
+        1 => "Level 1",
+        2 => "Level 2",
+        3 => "Level 3",
+        4 => "Level 4",
+        5 => "Level 5",
+        6 => "Tutorial",
+        _ => $"Pálya {levelId}"
+    };
+
+    public class MyScoreItem
+    {
+        [JsonPropertyName("levelName")]
+        public string LevelName { get; set; } = "";
+
+        [JsonPropertyName("highscore")]
+        public int Highscore { get; set; }
+    }
+
+    public class RankingScore
+    {
+        [JsonPropertyName("username")]
+        public string Username { get; set; } = "";
+
+        [JsonPropertyName("highscoreValue")]
+        public int HighscoreValue { get; set; }
+    }
+}
