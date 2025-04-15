@@ -1,4 +1,7 @@
 C:\Users\csbch\source\repos\MudskipApi\dist\dist\web.config
+C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\dist\emcc-props.json
+C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\dist\MudskipApi.staticwebassets.endpoints.json
+C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\emcc-props.json
 C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\MudskipApi.staticwebassets.endpoints.json
 C:\Users\csbch\source\repos\MudskipApi\dist\dist\dist\wwwroot\_framework\blazor.boot.json

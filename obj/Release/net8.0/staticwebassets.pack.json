@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.7z",
+      "PackagePath": "staticwebassets\\downloads\\mudskiptheslime.7z"
+    },
+    {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.apk",
+      "PackagePath": "staticwebassets\\downloads\\mudskiptheslime.apk"
+    },
+    {
       "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
@@ -35,6 +43,18 @@
     {
       "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip1.jpg",
+      "PackagePath": "staticwebassets\\images\\mudskip1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip2.jpg",
+      "PackagePath": "staticwebassets\\images\\mudskip2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip3.jpg",
+      "PackagePath": "staticwebassets\\images\\mudskip3.jpg"
     },
     {
       "Id": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\index.html",

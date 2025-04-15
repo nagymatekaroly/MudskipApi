@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|c:\\users\\csbch\\source\\repos\\mudskipapi\\pages\\highscore.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|solutionrelative:pages\\highscore.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|c:\\users\\csbch\\source\\repos\\mudskipapi\\pages\\mainpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|solutionrelative:pages\\mainpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|c:\\users\\csbch\\source\\repos\\mudskipapi\\wwwroot\\fetchhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|solutionrelative:wwwroot\\fetchhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|c:\\users\\csbch\\source\\repos\\mudskipapi\\pages\\highscore.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|solutionrelative:pages\\highscore.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FFC3B02-955A-4B71-AC72-46A1AA0921C0}|MudskipApi.csproj|c:\\users\\csbch\\source\\repos\\mudskipapi\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.razor",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\MainPage.razor",
               "RelativeDocumentMoniker": "Pages\\MainPage.razor",
@@ -195,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "Pages\\Register.razor",
@@ -203,8 +203,7 @@
               "RelativeToolTip": "Pages\\Register.razor",
               "ViewState": "AgIAAEIAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T13:23:10.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:23:10.103Z"
             },
             {
               "$type": "Document",
@@ -216,8 +215,7 @@
               "RelativeToolTip": "wwwroot\\fetchHelper.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-13T15:11:24.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:11:24.969Z"
             },
             {
               "$type": "Document",
@@ -233,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "fetchHelper.js",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\fetchHelper.js",
               "RelativeDocumentMoniker": "wwwroot\\fetchHelper.js",
@@ -241,25 +239,24 @@
               "RelativeToolTip": "wwwroot\\fetchHelper.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-13T15:24:33.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:24:33.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Highscore.razor",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\Highscore.razor",
               "RelativeDocumentMoniker": "Pages\\Highscore.razor",
               "ToolTip": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\Highscore.razor",
               "RelativeToolTip": "Pages\\Highscore.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T09:29:19.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Pages\\Login.razor",
@@ -267,8 +264,7 @@
               "RelativeToolTip": "Pages\\Login.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T11:12:31.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T11:12:31.944Z"
             },
             {
               "$type": "Document",
@@ -284,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyScores.razor",
               "DocumentMoniker": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\Pages\\MyScores.razor",
               "RelativeDocumentMoniker": "Pages\\MyScores.razor",
@@ -292,8 +288,7 @@
               "RelativeToolTip": "Pages\\MyScores.razor",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T07:25:53.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:25:53.381Z"
             }
           ]
         }

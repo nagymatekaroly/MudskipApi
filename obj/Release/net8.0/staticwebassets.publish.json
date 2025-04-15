@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aax1Sv8cU22FsCISF/lg/rsZlf3Q4WY8igkDcQnX/kc=",
+  "Hash": "Mcx/7N1Vhu1VheTedPIzLeppwsG4r88tnFAXTe5DHZs=",
   "Source": "MudskipApi",
   "BasePath": "/",
   "Mode": "Root",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "z1pgyn1dw9",
-      "Integrity": "11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A=",
+      "Fingerprint": "wk7vpistop",
+      "Integrity": "IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -227,7 +227,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\g67le5i23c-rqxhp8973g.gz"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -241,14 +241,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "l02x5ydqu9",
-      "Integrity": "izqWBEwCUR+ThnK/HCW6drLCn0jZI6k/vJnxfSSb00U=",
+      "Fingerprint": "lm3r4iggqo",
+      "Integrity": "HVcoJzBrqjhFRadT7SUhHfS0Oy2yByX3XBkROQCnAzU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -262,8 +262,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "egn4fcverr",
-      "Integrity": "vt50wYoDW2xdgYrhFXpR5BYwA6d0kmHVzW+Ghlz+oEA=",
+      "Fingerprint": "dgohmisw8c",
+      "Integrity": "80tavuUkcme9GrkaHgWJG54Hf/m7+mBetVB/E/6hhHE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm"
@@ -563,7 +563,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -577,14 +577,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "bba6yfbezo",
-      "Integrity": "t6ebFJaMuSYyOZpl0DenKLOz/gkHo9Nozwfe9cXncTI=",
+      "Fingerprint": "a2eg9bxp3i",
+      "Integrity": "zk/IbHzj60G+EWAucD1Z/78AZazyGgJwPH+LouwazAY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -598,8 +598,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9zhuz0g7rq",
-      "Integrity": "e4bxA6lZoSj3SBpnAsuC30aKFlUyryM8elOgr880e0Y=",
+      "Fingerprint": "9nv0qcjnfy",
+      "Integrity": "NZqXdTdqL8sgBDfZTeqwc6SvVPPxvkygE2hv81kggpQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm"
@@ -731,7 +731,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.JSInterop.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -745,14 +745,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\MudskipApi.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "yt88hcc4q3",
-      "Integrity": "SgADEAMQV2/y9/uIzvcvJRIlDKp8B417tF8Xqa0NhwQ=",
+      "Fingerprint": "rze75ujs74",
+      "Integrity": "p9R4mDHSCZ5gf5+v9GhDvmW7qwCCNfg0X7Ly3+8Hizg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\MudskipApi.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -766,8 +766,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\MudskipApi.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6axa0xkmg9",
-      "Integrity": "/qqx8B3cWk9Y8l9wHGo+YeRrkW6nuroD8E4thRaozWY=",
+      "Fingerprint": "f3k1sp882j",
+      "Integrity": "BcQu/uFHCmm+XRJ4oCiwOh9OimJGcnRfGBawnbxKPqg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\MudskipApi.wasm"
@@ -1067,7 +1067,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Text.Encodings.Web.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1081,14 +1081,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "5z8s00ihgy",
-      "Integrity": "j4MyoT33zEml8XjiVPC23c3UXM3rJCa3aQqirt+xgh0=",
+      "Fingerprint": "izn837wied",
+      "Integrity": "bgoSnTEhkLhX5xPWNct0KRrQGyb6vZwVUFixcWC6dr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "19a9wzl7cp",
-      "Integrity": "28fwvlmEsiaJh0CSn0X8fSqvpoivIDGq4CQ7KDALO2U=",
+      "Fingerprint": "ni18qv92uo",
+      "Integrity": "UQBEsmDPMvKm7ppjRsI65U5h3nW7tBcAv1z5TE2SuyE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm"
@@ -1151,7 +1151,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.Concurrent.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1165,14 +1165,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "glvq2qy2qh",
-      "Integrity": "dKwlPmTI7593te5P5cauggnn0ybVDmWUbI84QQmjsPc=",
+      "Fingerprint": "7ydjwzwfp6",
+      "Integrity": "XxlfY3CFfnZKzAW4u8tple1KzYneeXIvd/yU5MxgvVs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dwcufdgaeh",
-      "Integrity": "zd8RWbqxfaoY0pJOn3ctwVHJJrWKpZCIIH4Cz7/yMqM=",
+      "Fingerprint": "wxjqbeqkel",
+      "Integrity": "dGrI36UhmM85C1UeJ/IMZYhQdjoMrfTngJjrQDE/FSI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm"
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1627,14 +1627,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "tsuvnzzkpc",
-      "Integrity": "Uz+CBdq3op2rN6vBzRbxgPZmgLK2/qyf9RFXxp9x6+s=",
+      "Fingerprint": "olsvflktku",
+      "Integrity": "jAWN+nZP07YRBTzvLUP3sTPrlzYqQTzer5awSVpL4vg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "aubp51vfu3",
-      "Integrity": "zn7gLtbZSeLS7/OVbUE84KR8f3I9mnMD5iFx07WsAg0=",
+      "Fingerprint": "xvyhht39o4",
+      "Integrity": "I4DViemk7NvlPSRq2Da9T5nU0DS02Nq34qQIlc2SVik=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\blazor.publish.boot.json"
@@ -1697,7 +1697,7 @@
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.br",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.br",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1711,14 +1711,14 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "ibcfnpod64",
-      "Integrity": "4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=",
+      "Fingerprint": "8bwkr0hugj",
+      "Integrity": "bJS1NwwzEOT6F2rxA35T4PhX6NzFGS6IC+tFvfWsJls=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.gz",
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.gz",
       "SourceId": "MudskipApi",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\",
@@ -1732,8 +1732,8 @@
       "RelatedAsset": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sw48t9naru",
-      "Integrity": "JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=",
+      "Fingerprint": "3dl86en3r0",
+      "Integrity": "2fNag5tAjMK64QAoTQfRXu/lWdORnqyS/wEICikBuD4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
@@ -2425,8 +2425,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "q78dhnpa10",
-      "Integrity": "1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw=",
+      "Fingerprint": "24vhjw7367",
+      "Integrity": "wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm"
@@ -2719,8 +2719,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "16eu18lj2d",
-      "Integrity": "x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA=",
+      "Fingerprint": "di8m9yoke0",
+      "Integrity": "azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\MudskipApi.wasm"
@@ -2803,8 +2803,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "mahxt8lrf2",
-      "Integrity": "Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=",
+      "Fingerprint": "620kps6sif",
+      "Integrity": "srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Collections.wasm"
@@ -2971,8 +2971,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "05l1f3e02z",
-      "Integrity": "RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I=",
+      "Fingerprint": "gli44p3v39",
+      "Integrity": "JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Linq.wasm"
@@ -3034,8 +3034,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "epc991erfn",
-      "Integrity": "kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI=",
+      "Fingerprint": "wb0cwytvnj",
+      "Integrity": "VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Net.Http.wasm"
@@ -3181,8 +3181,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "fh3mw45c61",
-      "Integrity": "I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU=",
+      "Fingerprint": "6p6mptv473",
+      "Integrity": "lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\webcil\\publish\\System.Runtime.wasm"
@@ -3356,6 +3356,48 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.7z",
+      "SourceId": "MudskipApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "downloads/mudskiptheslime#[.{fingerprint}]?.7z",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjfkm2st0g",
+      "Integrity": "p6kKiWrtmwMvmTIauFqZApu8etDHNFmB/H2lUua/w1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\downloads\\mudskiptheslime.7z"
+    },
+    {
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.apk",
+      "SourceId": "MudskipApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "downloads/mudskiptheslime#[.{fingerprint}]?.apk",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rl2rqk4ypb",
+      "Integrity": "EdB3hkiNrO+uL9KE3/pYOwkVVnc9KhqAmRjBxHCdx4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\downloads\\mudskiptheslime.apk"
+    },
+    {
       "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\favicon.png",
       "SourceId": "MudskipApi",
       "SourceType": "Discovered",
@@ -3391,8 +3433,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rx0t1ti1gs",
-      "Integrity": "/z4QclQ4ZXF7bDpsh7YOdH8Jgt2ekK4HJI0NqFFxGYU=",
+      "Fingerprint": "6ycdfv7hrh",
+      "Integrity": "zn1uRQ3/i5Y3gVXerbZKQXg4RICDpUqBXyS9jBPZMoI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fetchHelper.js"
@@ -3417,6 +3459,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip1.jpg",
+      "SourceId": "MudskipApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/mudskip1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imsrb7aa2w",
+      "Integrity": "Vq8g/yD3qeK9IvBWlKGd04rht3lfVkd9C6kB1MuCfW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mudskip1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip2.jpg",
+      "SourceId": "MudskipApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/mudskip2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2owv1rjswr",
+      "Integrity": "3ivnEjUqG6qEhvUS4GhrkIk1SW5v5vM4JmmVl+NpMU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mudskip2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip3.jpg",
+      "SourceId": "MudskipApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/mudskip3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w7s6n76ou7",
+      "Integrity": "pNiYl3nA/1zPN7P2th+lbsWXRYpAvibgo3VGry564Mo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mudskip3.jpg"
     },
     {
       "Identity": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\index.html",
@@ -3460,11 +3565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A=\""
+          "Value": "\"IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3474,18 +3579,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A="
+          "Value": "sha256-IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000451467269"
+          "Quality": "0.000450856628"
         }
       ],
       "ResponseHeaders": [
@@ -3495,15 +3600,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2214"
+          "Value": "2217"
         },
         {
           "Name": "ETag",
-          "Value": "\"Uz+CBdq3op2rN6vBzRbxgPZmgLK2/qyf9RFXxp9x6+s=\""
+          "Value": "\"jAWN+nZP07YRBTzvLUP3sTPrlzYqQTzer5awSVpL4vg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3523,24 +3628,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A=\""
+          "Value": "W/\"IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A="
+          "Value": "sha256-IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000418235048"
+          "Quality": "0.000418060201"
         }
       ],
       "ResponseHeaders": [
@@ -3550,15 +3655,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2390"
+          "Value": "2391"
         },
         {
           "Name": "ETag",
-          "Value": "\"zn7gLtbZSeLS7/OVbUE84KR8f3I9mnMD5iFx07WsAg0=\""
+          "Value": "\"I4DViemk7NvlPSRq2Da9T5nU0DS02Nq34qQIlc2SVik=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,19 +3683,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A=\""
+          "Value": "W/\"IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-11DklemfCzdgl4LhmgFTdNBJwQkingZR2PTaJWsz50A="
+          "Value": "sha256-IHkF0BRPk/1DLIQhdB+OC8XSaA6scY5po+EUUBxDwVc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2214"
+          "Value": "2217"
         },
         {
           "Name": "Content-Type",
@@ -3607,11 +3712,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uz+CBdq3op2rN6vBzRbxgPZmgLK2/qyf9RFXxp9x6+s=\""
+          "Value": "\"jAWN+nZP07YRBTzvLUP3sTPrlzYqQTzer5awSVpL4vg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3629,13 +3734,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Uz+CBdq3op2rN6vBzRbxgPZmgLK2/qyf9RFXxp9x6+s="
+          "Value": "sha256-jAWN+nZP07YRBTzvLUP3sTPrlzYqQTzer5awSVpL4vg="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-z1pgyn1dw9.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qurrjp3btd-wk7vpistop.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2390"
+          "Value": "2391"
         },
         {
           "Name": "Content-Type",
@@ -3652,11 +3757,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zn7gLtbZSeLS7/OVbUE84KR8f3I9mnMD5iFx07WsAg0=\""
+          "Value": "\"I4DViemk7NvlPSRq2Da9T5nU0DS02Nq34qQIlc2SVik=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3674,7 +3779,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zn7gLtbZSeLS7/OVbUE84KR8f3I9mnMD5iFx07WsAg0="
+          "Value": "sha256-I4DViemk7NvlPSRq2Da9T5nU0DS02Nq34qQIlc2SVik="
         }
       ]
     },
@@ -5813,12 +5918,12 @@
     },
     {
       "Route": "_framework/Microsoft.AspNetCore.Components.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000012225686"
+          "Quality": "0.000012242150"
         }
       ],
       "ResponseHeaders": [
@@ -5828,15 +5933,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "81794"
+          "Value": "81684"
         },
         {
           "Name": "ETag",
-          "Value": "\"j4MyoT33zEml8XjiVPC23c3UXM3rJCa3aQqirt+xgh0=\""
+          "Value": "\"bgoSnTEhkLhX5xPWNct0KRrQGyb6vZwVUFixcWC6dr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5856,24 +5961,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw=\""
+          "Value": "W/\"wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw="
+          "Value": "sha256-wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE="
         }
       ]
     },
     {
       "Route": "_framework/Microsoft.AspNetCore.Components.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000010291560"
+          "Quality": "0.000010290713"
         }
       ],
       "ResponseHeaders": [
@@ -5883,15 +5988,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "97166"
+          "Value": "97174"
         },
         {
           "Name": "ETag",
-          "Value": "\"28fwvlmEsiaJh0CSn0X8fSqvpoivIDGq4CQ7KDALO2U=\""
+          "Value": "\"UQBEsmDPMvKm7ppjRsI65U5h3nW7tBcAv1z5TE2SuyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5911,13 +6016,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw=\""
+          "Value": "W/\"wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw="
+          "Value": "sha256-wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE="
         }
       ]
     },
@@ -5940,11 +6045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw=\""
+          "Value": "\"wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5954,13 +6059,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1ufZqdexLUV1GRe9lag3lYMMhDC+wCbI3Vbv9SfvuDw="
+          "Value": "sha256-wloebJF558UU8ZgFlx5bvvhkgGMVQfPTcH+Aii0KhzE="
         }
       ]
     },
     {
       "Route": "_framework/Microsoft.AspNetCore.Components.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5969,7 +6074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "81794"
+          "Value": "81684"
         },
         {
           "Name": "Content-Type",
@@ -5977,11 +6082,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j4MyoT33zEml8XjiVPC23c3UXM3rJCa3aQqirt+xgh0=\""
+          "Value": "\"bgoSnTEhkLhX5xPWNct0KRrQGyb6vZwVUFixcWC6dr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5999,13 +6104,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j4MyoT33zEml8XjiVPC23c3UXM3rJCa3aQqirt+xgh0="
+          "Value": "sha256-bgoSnTEhkLhX5xPWNct0KRrQGyb6vZwVUFixcWC6dr4="
         }
       ]
     },
     {
       "Route": "_framework/Microsoft.AspNetCore.Components.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-q78dhnpa10.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hew0pfk7jf-24vhjw7367.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6014,7 +6119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "97166"
+          "Value": "97174"
         },
         {
           "Name": "Content-Type",
@@ -6022,11 +6127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"28fwvlmEsiaJh0CSn0X8fSqvpoivIDGq4CQ7KDALO2U=\""
+          "Value": "\"UQBEsmDPMvKm7ppjRsI65U5h3nW7tBcAv1z5TE2SuyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6044,7 +6149,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-28fwvlmEsiaJh0CSn0X8fSqvpoivIDGq4CQ7KDALO2U="
+          "Value": "sha256-UQBEsmDPMvKm7ppjRsI65U5h3nW7tBcAv1z5TE2SuyE="
         }
       ]
     },
@@ -9131,12 +9236,12 @@
     },
     {
       "Route": "_framework/MudskipApi.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000081652650"
+          "Quality": "0.000076086129"
         }
       ],
       "ResponseHeaders": [
@@ -9146,15 +9251,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12246"
+          "Value": "13142"
         },
         {
           "Name": "ETag",
-          "Value": "\"SgADEAMQV2/y9/uIzvcvJRIlDKp8B417tF8Xqa0NhwQ=\""
+          "Value": "\"p9R4mDHSCZ5gf5+v9GhDvmW7qwCCNfg0X7Ly3+8Hizg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9174,24 +9279,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA=\""
+          "Value": "W/\"azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA="
+          "Value": "sha256-azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA="
         }
       ]
     },
     {
       "Route": "_framework/MudskipApi.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000070906899"
+          "Quality": "0.000065475021"
         }
       ],
       "ResponseHeaders": [
@@ -9201,15 +9306,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14102"
+          "Value": "15272"
         },
         {
           "Name": "ETag",
-          "Value": "\"/qqx8B3cWk9Y8l9wHGo+YeRrkW6nuroD8E4thRaozWY=\""
+          "Value": "\"BcQu/uFHCmm+XRJ4oCiwOh9OimJGcnRfGBawnbxKPqg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9229,13 +9334,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA=\""
+          "Value": "W/\"azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA="
+          "Value": "sha256-azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA="
         }
       ]
     },
@@ -9250,7 +9355,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33045"
+          "Value": "36629"
         },
         {
           "Name": "Content-Type",
@@ -9258,11 +9363,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA=\""
+          "Value": "\"azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9272,13 +9377,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA="
+          "Value": "sha256-azqLwYNxmBmlVEe3hjVpO6787OwBlxnRhkWwxIVkzTA="
         }
       ]
     },
     {
       "Route": "_framework/MudskipApi.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9287,7 +9392,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12246"
+          "Value": "13142"
         },
         {
           "Name": "Content-Type",
@@ -9295,11 +9400,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SgADEAMQV2/y9/uIzvcvJRIlDKp8B417tF8Xqa0NhwQ=\""
+          "Value": "\"p9R4mDHSCZ5gf5+v9GhDvmW7qwCCNfg0X7Ly3+8Hizg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9317,13 +9422,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SgADEAMQV2/y9/uIzvcvJRIlDKp8B417tF8Xqa0NhwQ="
+          "Value": "sha256-p9R4mDHSCZ5gf5+v9GhDvmW7qwCCNfg0X7Ly3+8Hizg="
         }
       ]
     },
     {
       "Route": "_framework/MudskipApi.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-16eu18lj2d.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\9uguknp5w0-di8m9yoke0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9332,7 +9437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14102"
+          "Value": "15272"
         },
         {
           "Name": "Content-Type",
@@ -9340,11 +9445,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/qqx8B3cWk9Y8l9wHGo+YeRrkW6nuroD8E4thRaozWY=\""
+          "Value": "\"BcQu/uFHCmm+XRJ4oCiwOh9OimJGcnRfGBawnbxKPqg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 17:01:25 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9362,7 +9467,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/qqx8B3cWk9Y8l9wHGo+YeRrkW6nuroD8E4thRaozWY="
+          "Value": "sha256-BcQu/uFHCmm+XRJ4oCiwOh9OimJGcnRfGBawnbxKPqg="
         }
       ]
     },
@@ -10079,12 +10184,12 @@
     },
     {
       "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000197005516"
+          "Quality": "0.000196155355"
         }
       ],
       "ResponseHeaders": [
@@ -10094,15 +10199,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5075"
+          "Value": "5097"
         },
         {
           "Name": "ETag",
-          "Value": "\"4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=\""
+          "Value": "\"bJS1NwwzEOT6F2rxA35T4PhX6NzFGS6IC+tFvfWsJls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10122,24 +10227,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "W/\"srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000176304654"
+          "Quality": "0.000175438596"
         }
       ],
       "ResponseHeaders": [
@@ -10149,15 +10254,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5671"
+          "Value": "5699"
         },
         {
           "Name": "ETag",
-          "Value": "\"JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=\""
+          "Value": "\"2fNag5tAjMK64QAoTQfRXu/lWdORnqyS/wEICikBuD4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10177,13 +10282,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "W/\"srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k="
         }
       ]
     },
@@ -10206,11 +10311,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4=\""
+          "Value": "\"srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10220,13 +10325,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mr0HQrMmAOX637q/YXrV+UQbVlzZCVr0U3v+vI7rM/4="
+          "Value": "sha256-srm/H7Jg4yvtqfIDiyE8SdIkQDD5J/b6u0EByKnbe6k="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10235,7 +10340,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5075"
+          "Value": "5097"
         },
         {
           "Name": "Content-Type",
@@ -10243,11 +10348,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo=\""
+          "Value": "\"bJS1NwwzEOT6F2rxA35T4PhX6NzFGS6IC+tFvfWsJls=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10265,13 +10370,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4tjETkgwQzn02Pqn7lvZIT1PLd1dB1xsCpl+MHs6IQo="
+          "Value": "sha256-bJS1NwwzEOT6F2rxA35T4PhX6NzFGS6IC+tFvfWsJls="
         }
       ]
     },
     {
       "Route": "_framework/System.Collections.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-mahxt8lrf2.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\qvo8ca8acb-620kps6sif.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10280,7 +10385,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5671"
+          "Value": "5699"
         },
         {
           "Name": "Content-Type",
@@ -10288,11 +10393,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE=\""
+          "Value": "\"2fNag5tAjMK64QAoTQfRXu/lWdORnqyS/wEICikBuD4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10310,7 +10415,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JERnIznm+B2vEPkRTbaX5sQ4+iwgDq4x4iFL60x9LwE="
+          "Value": "sha256-2fNag5tAjMK64QAoTQfRXu/lWdORnqyS/wEICikBuD4="
         }
       ]
     },
@@ -11975,12 +12080,12 @@
     },
     {
       "Route": "_framework/System.Linq.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000103391232"
+          "Quality": "0.000102124183"
         }
       ],
       "ResponseHeaders": [
@@ -11990,15 +12095,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9671"
+          "Value": "9791"
         },
         {
           "Name": "ETag",
-          "Value": "\"t6ebFJaMuSYyOZpl0DenKLOz/gkHo9Nozwfe9cXncTI=\""
+          "Value": "\"zk/IbHzj60G+EWAucD1Z/78AZazyGgJwPH+LouwazAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12018,24 +12123,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I=\""
+          "Value": "W/\"JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I="
+          "Value": "sha256-JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E="
         }
       ]
     },
     {
       "Route": "_framework/System.Linq.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000088936322"
+          "Quality": "0.000088051422"
         }
       ],
       "ResponseHeaders": [
@@ -12045,15 +12150,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11243"
+          "Value": "11356"
         },
         {
           "Name": "ETag",
-          "Value": "\"e4bxA6lZoSj3SBpnAsuC30aKFlUyryM8elOgr880e0Y=\""
+          "Value": "\"NZqXdTdqL8sgBDfZTeqwc6SvVPPxvkygE2hv81kggpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12073,13 +12178,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I=\""
+          "Value": "W/\"JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I="
+          "Value": "sha256-JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E="
         }
       ]
     },
@@ -12094,7 +12199,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23829"
+          "Value": "24341"
         },
         {
           "Name": "Content-Type",
@@ -12102,11 +12207,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I=\""
+          "Value": "\"JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12116,13 +12221,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RFwiPKgfb8wz3RgqK/3gkTmMak6kgG/TJ3Zyr6xbE5I="
+          "Value": "sha256-JK8hk0fSn8wTJRmDuEEKqC9qw+dmPNpHrwQ0LiA1T2E="
         }
       ]
     },
     {
       "Route": "_framework/System.Linq.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12131,7 +12236,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9671"
+          "Value": "9791"
         },
         {
           "Name": "Content-Type",
@@ -12139,11 +12244,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t6ebFJaMuSYyOZpl0DenKLOz/gkHo9Nozwfe9cXncTI=\""
+          "Value": "\"zk/IbHzj60G+EWAucD1Z/78AZazyGgJwPH+LouwazAY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12161,13 +12266,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t6ebFJaMuSYyOZpl0DenKLOz/gkHo9Nozwfe9cXncTI="
+          "Value": "sha256-zk/IbHzj60G+EWAucD1Z/78AZazyGgJwPH+LouwazAY="
         }
       ]
     },
     {
       "Route": "_framework/System.Linq.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-05l1f3e02z.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\8uc624f8fq-gli44p3v39.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12176,7 +12281,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11243"
+          "Value": "11356"
         },
         {
           "Name": "Content-Type",
@@ -12184,11 +12289,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e4bxA6lZoSj3SBpnAsuC30aKFlUyryM8elOgr880e0Y=\""
+          "Value": "\"NZqXdTdqL8sgBDfZTeqwc6SvVPPxvkygE2hv81kggpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12206,7 +12311,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e4bxA6lZoSj3SBpnAsuC30aKFlUyryM8elOgr880e0Y="
+          "Value": "sha256-NZqXdTdqL8sgBDfZTeqwc6SvVPPxvkygE2hv81kggpQ="
         }
       ]
     },
@@ -12686,12 +12791,12 @@
     },
     {
       "Route": "_framework/System.Net.Http.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000019307628"
+          "Quality": "0.000019228920"
         }
       ],
       "ResponseHeaders": [
@@ -12701,15 +12806,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51792"
+          "Value": "52004"
         },
         {
           "Name": "ETag",
-          "Value": "\"dKwlPmTI7593te5P5cauggnn0ybVDmWUbI84QQmjsPc=\""
+          "Value": "\"XxlfY3CFfnZKzAW4u8tple1KzYneeXIvd/yU5MxgvVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12729,24 +12834,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI=\""
+          "Value": "W/\"VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI="
+          "Value": "sha256-VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4="
         }
       ]
     },
     {
       "Route": "_framework/System.Net.Http.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000016421170"
+          "Quality": "0.000016392636"
         }
       ],
       "ResponseHeaders": [
@@ -12756,15 +12861,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60896"
+          "Value": "61002"
         },
         {
           "Name": "ETag",
-          "Value": "\"zd8RWbqxfaoY0pJOn3ctwVHJJrWKpZCIIH4Cz7/yMqM=\""
+          "Value": "\"dGrI36UhmM85C1UeJ/IMZYhQdjoMrfTngJjrQDE/FSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12784,13 +12889,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI=\""
+          "Value": "W/\"VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI="
+          "Value": "sha256-VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4="
         }
       ]
     },
@@ -12805,7 +12910,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "133397"
+          "Value": "133909"
         },
         {
           "Name": "Content-Type",
@@ -12813,11 +12918,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI=\""
+          "Value": "\"VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12827,13 +12932,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kpXmghxxOdI3guUe4OKFTdeqQ4UKBiq+RzEexcjEsuI="
+          "Value": "sha256-VPvXZpUeBD7sUrSxYx2jY3YHS9vwifCo1xvaCln7zA4="
         }
       ]
     },
     {
       "Route": "_framework/System.Net.Http.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12842,7 +12947,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "51792"
+          "Value": "52004"
         },
         {
           "Name": "Content-Type",
@@ -12850,11 +12955,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dKwlPmTI7593te5P5cauggnn0ybVDmWUbI84QQmjsPc=\""
+          "Value": "\"XxlfY3CFfnZKzAW4u8tple1KzYneeXIvd/yU5MxgvVs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12872,13 +12977,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dKwlPmTI7593te5P5cauggnn0ybVDmWUbI84QQmjsPc="
+          "Value": "sha256-XxlfY3CFfnZKzAW4u8tple1KzYneeXIvd/yU5MxgvVs="
         }
       ]
     },
     {
       "Route": "_framework/System.Net.Http.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-epc991erfn.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\hv9h3razz9-wb0cwytvnj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12887,7 +12992,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60896"
+          "Value": "61002"
         },
         {
           "Name": "Content-Type",
@@ -12895,11 +13000,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zd8RWbqxfaoY0pJOn3ctwVHJJrWKpZCIIH4Cz7/yMqM=\""
+          "Value": "\"dGrI36UhmM85C1UeJ/IMZYhQdjoMrfTngJjrQDE/FSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12917,7 +13022,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zd8RWbqxfaoY0pJOn3ctwVHJJrWKpZCIIH4Cz7/yMqM="
+          "Value": "sha256-dGrI36UhmM85C1UeJ/IMZYhQdjoMrfTngJjrQDE/FSI="
         }
       ]
     },
@@ -14345,12 +14450,12 @@
     },
     {
       "Route": "_framework/System.Runtime.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000474158369"
+          "Quality": "0.000461041955"
         }
       ],
       "ResponseHeaders": [
@@ -14360,15 +14465,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2108"
+          "Value": "2168"
         },
         {
           "Name": "ETag",
-          "Value": "\"izqWBEwCUR+ThnK/HCW6drLCn0jZI6k/vJnxfSSb00U=\""
+          "Value": "\"HVcoJzBrqjhFRadT7SUhHfS0Oy2yByX3XBkROQCnAzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14388,24 +14493,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU=\""
+          "Value": "W/\"lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU="
+          "Value": "sha256-lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M="
         }
       ]
     },
     {
       "Route": "_framework/System.Runtime.wasm",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000411861614"
+          "Quality": "0.000408997955"
         }
       ],
       "ResponseHeaders": [
@@ -14415,15 +14520,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2427"
+          "Value": "2444"
         },
         {
           "Name": "ETag",
-          "Value": "\"vt50wYoDW2xdgYrhFXpR5BYwA6d0kmHVzW+Ghlz+oEA=\""
+          "Value": "\"80tavuUkcme9GrkaHgWJG54Hf/m7+mBetVB/E/6hhHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14443,13 +14548,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU=\""
+          "Value": "W/\"lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU="
+          "Value": "sha256-lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M="
         }
       ]
     },
@@ -14472,11 +14577,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU=\""
+          "Value": "\"lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14486,13 +14591,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I7uusM2AFW8HYOpWNA9yR/S1tbPpLjDi5pW8yATbpJU="
+          "Value": "sha256-lvcLWqgWIbaLVwcOi9n/4gWxA48s/E79vLPvDIbIs6M="
         }
       ]
     },
     {
       "Route": "_framework/System.Runtime.wasm.br",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.br",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14501,7 +14606,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2108"
+          "Value": "2168"
         },
         {
           "Name": "Content-Type",
@@ -14509,11 +14614,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"izqWBEwCUR+ThnK/HCW6drLCn0jZI6k/vJnxfSSb00U=\""
+          "Value": "\"HVcoJzBrqjhFRadT7SUhHfS0Oy2yByX3XBkROQCnAzU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14531,13 +14636,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-izqWBEwCUR+ThnK/HCW6drLCn0jZI6k/vJnxfSSb00U="
+          "Value": "sha256-HVcoJzBrqjhFRadT7SUhHfS0Oy2yByX3XBkROQCnAzU="
         }
       ]
     },
     {
       "Route": "_framework/System.Runtime.wasm.gz",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-fh3mw45c61.gz",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\obj\\Release\\net8.0\\compressed\\publish\\02crljoycs-6p6mptv473.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14546,7 +14651,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2427"
+          "Value": "2444"
         },
         {
           "Name": "Content-Type",
@@ -14554,11 +14659,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vt50wYoDW2xdgYrhFXpR5BYwA6d0kmHVzW+Ghlz+oEA=\""
+          "Value": "\"80tavuUkcme9GrkaHgWJG54Hf/m7+mBetVB/E/6hhHE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 16:23:10 GMT"
+          "Value": "Tue, 15 Apr 2025 13:57:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14576,7 +14681,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vt50wYoDW2xdgYrhFXpR5BYwA6d0kmHVzW+Ghlz+oEA="
+          "Value": "sha256-80tavuUkcme9GrkaHgWJG54Hf/m7+mBetVB/E/6hhHE="
         }
       ]
     },
@@ -15857,6 +15962,170 @@
       ]
     },
     {
+      "Route": "downloads/mudskiptheslime.7z",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.7z",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25628436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6kKiWrtmwMvmTIauFqZApu8etDHNFmB/H2lUua/w1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6kKiWrtmwMvmTIauFqZApu8etDHNFmB/H2lUua/w1Q="
+        }
+      ]
+    },
+    {
+      "Route": "downloads/mudskiptheslime.apk",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.apk",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35308740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdB3hkiNrO+uL9KE3/pYOwkVVnc9KhqAmRjBxHCdx4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdB3hkiNrO+uL9KE3/pYOwkVVnc9KhqAmRjBxHCdx4E="
+        }
+      ]
+    },
+    {
+      "Route": "downloads/mudskiptheslime.bjfkm2st0g.7z",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.7z",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25628436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6kKiWrtmwMvmTIauFqZApu8etDHNFmB/H2lUua/w1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjfkm2st0g"
+        },
+        {
+          "Name": "label",
+          "Value": "downloads/mudskiptheslime.7z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6kKiWrtmwMvmTIauFqZApu8etDHNFmB/H2lUua/w1Q="
+        }
+      ]
+    },
+    {
+      "Route": "downloads/mudskiptheslime.rl2rqk4ypb.apk",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\downloads\\mudskiptheslime.apk",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35308740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EdB3hkiNrO+uL9KE3/pYOwkVVnc9KhqAmRjBxHCdx4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 13:11:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rl2rqk4ypb"
+        },
+        {
+          "Name": "label",
+          "Value": "downloads/mudskiptheslime.apk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EdB3hkiNrO+uL9KE3/pYOwkVVnc9KhqAmRjBxHCdx4E="
+        }
+      ]
+    },
+    {
       "Route": "favicon.ifv42okdf2.png",
       "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\favicon.png",
       "Selectors": [],
@@ -15939,6 +16208,51 @@
       ]
     },
     {
+      "Route": "fetchHelper.6ycdfv7hrh.js",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\fetchHelper.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zn1uRQ3/i5Y3gVXerbZKQXg4RICDpUqBXyS9jBPZMoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:04:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ycdfv7hrh"
+        },
+        {
+          "Name": "label",
+          "Value": "fetchHelper.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zn1uRQ3/i5Y3gVXerbZKQXg4RICDpUqBXyS9jBPZMoI="
+        }
+      ]
+    },
+    {
       "Route": "fetchHelper.js",
       "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\fetchHelper.js",
       "Selectors": [],
@@ -15949,7 +16263,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1723"
+          "Value": "1756"
         },
         {
           "Name": "Content-Type",
@@ -15957,11 +16271,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/z4QclQ4ZXF7bDpsh7YOdH8Jgt2ekK4HJI0NqFFxGYU=\""
+          "Value": "\"zn1uRQ3/i5Y3gVXerbZKQXg4RICDpUqBXyS9jBPZMoI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 14:44:46 GMT"
+          "Value": "Tue, 15 Apr 2025 08:04:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15971,52 +16285,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/z4QclQ4ZXF7bDpsh7YOdH8Jgt2ekK4HJI0NqFFxGYU="
-        }
-      ]
-    },
-    {
-      "Route": "fetchHelper.rx0t1ti1gs.js",
-      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\fetchHelper.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1723"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/z4QclQ4ZXF7bDpsh7YOdH8Jgt2ekK4HJI0NqFFxGYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 14:44:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rx0t1ti1gs"
-        },
-        {
-          "Name": "label",
-          "Value": "fetchHelper.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/z4QclQ4ZXF7bDpsh7YOdH8Jgt2ekK4HJI0NqFFxGYU="
+          "Value": "sha256-zn1uRQ3/i5Y3gVXerbZKQXg4RICDpUqBXyS9jBPZMoI="
         }
       ]
     },
@@ -16099,6 +16368,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip1.imsrb7aa2w.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vq8g/yD3qeK9IvBWlKGd04rht3lfVkd9C6kB1MuCfW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imsrb7aa2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mudskip1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vq8g/yD3qeK9IvBWlKGd04rht3lfVkd9C6kB1MuCfW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip1.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vq8g/yD3qeK9IvBWlKGd04rht3lfVkd9C6kB1MuCfW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 08:51:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vq8g/yD3qeK9IvBWlKGd04rht3lfVkd9C6kB1MuCfW4="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip2.2owv1rjswr.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ivnEjUqG6qEhvUS4GhrkIk1SW5v5vM4JmmVl+NpMU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2owv1rjswr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mudskip2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ivnEjUqG6qEhvUS4GhrkIk1SW5v5vM4JmmVl+NpMU8="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip2.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ivnEjUqG6qEhvUS4GhrkIk1SW5v5vM4JmmVl+NpMU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ivnEjUqG6qEhvUS4GhrkIk1SW5v5vM4JmmVl+NpMU8="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip3.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "160144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pNiYl3nA/1zPN7P2th+lbsWXRYpAvibgo3VGry564Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:06:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pNiYl3nA/1zPN7P2th+lbsWXRYpAvibgo3VGry564Mo="
+        }
+      ]
+    },
+    {
+      "Route": "images/mudskip3.w7s6n76ou7.jpg",
+      "AssetFile": "C:\\Users\\csbch\\source\\repos\\MudskipApi\\wwwroot\\images\\mudskip3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "160144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pNiYl3nA/1zPN7P2th+lbsWXRYpAvibgo3VGry564Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 09:06:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7s6n76ou7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mudskip3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pNiYl3nA/1zPN7P2th+lbsWXRYpAvibgo3VGry564Mo="
         }
       ]
     },

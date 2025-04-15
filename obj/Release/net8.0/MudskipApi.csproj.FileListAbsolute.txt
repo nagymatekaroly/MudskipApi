@@ -1041,6 +1041,9 @@ C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\wwwroot\_framewor
 C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\emcc-props.json
 C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\MudskipApi.staticwebassets.endpoints.json
 C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\wwwroot\_framework\blazor.boot.json
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\o0d7uowi76-16eu18lj2d.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\1cuixpsvx8-ymjjyegoe2.gz
-C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\9534au2vpt-166gbi9j6m.gz
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\dist\emcc-props.json
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\dist\MudskipApi.staticwebassets.endpoints.json
+C:\Users\csbch\source\repos\MudskipApi\bin\Release\net8.0\dist\dist\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\o0d7uowi76-di8m9yoke0.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\1cuixpsvx8-suqq9ror5g.gz
+C:\Users\csbch\source\repos\MudskipApi\obj\Release\net8.0\compressed\9534au2vpt-t865accmjn.gz

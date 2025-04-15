@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MudskipApi",
   "resources": {
-    "hash": "sha256-N7V5060Rg57j/HVlniRE2PA8ADqi5Bo5ZQznIXc6lRg=",
+    "hash": "sha256-5lNHu8XH3060obcyb/X5Lyl8Q7r8MXP4XlYQUr97YPc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-p7ClT8o5uqssszvzfZUGhBlLOOkeUrpskkbm2FHab3g="
     },
@@ -33,7 +33,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-xyqqv0SMCahnrOs+p5QYDHoh/BAYlbNtyjTTpqmRW/g=",
       "Microsoft.JSInterop.wasm": "sha256-/UDU/a22nYNWHSJretwtuHflSN4Z8j8HeEorLjyrHDA=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-GsVw42I3DGzgLTnrD2A9JafVYLHVkyB3Qqe2LyDlYm8=",
-      "MudskipApi.wasm": "sha256-jP1GkeE4i8r8xkFM0leISugIoF3fj29vkxj0fUuqMFw=",
+      "MudskipApi.wasm": "sha256-x4sawy0vx6qHz+HiVk+iGxSnMV373Fhmde4kP2FyHXA=",
       "System.Collections.Concurrent.wasm": "sha256-u+6MmdND3SBiwRrfq3BaeaaBkQrXV5XluA2V4HnPmNw=",
       "System.Collections.NonGeneric.wasm": "sha256-ZBgMgfUlXD1k/uiwgxWa34Tg0dLeOu7oTezeScJJjxM=",
       "System.Collections.Specialized.wasm": "sha256-We3r++8Dy+DyM8GkNGcCd2xwWfqH22zr3Me62z4kUdU=",
