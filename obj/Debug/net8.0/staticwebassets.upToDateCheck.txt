@@ -2,7 +2,12 @@ wwwroot\_redirects
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\downloads\mudskiptheslime.7z
+wwwroot\downloads\mudskiptheslime.apk
 wwwroot\favicon.png
 wwwroot\fetchHelper.js
 wwwroot\icon-192.png
+wwwroot\images\mudskip1.jpg
+wwwroot\images\mudskip2.jpg
+wwwroot\images\mudskip3.jpg
 wwwroot\index.html

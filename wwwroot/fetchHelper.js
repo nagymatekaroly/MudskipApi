@@ -1,20 +1,23 @@
 window.loginUser = async function (username, password) {
     const response = await fetch("https://mudskipdb.onrender.com/api/User/login", {
         method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ username, password })
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ username, password }),
+        credentials: "include"
     });
 
-    const result = await response.json();
-    if (response.ok && result.userId) {
-        localStorage.setItem("userId", result.userId);
+    if (response.ok) {
         return "ok";
     } else {
-        return result.message || "Hibás válasz.";
+        try {
+            const text = await response.text();
+            return text || "Ismeretlen hiba.";
+        } catch {
+            return "Ismeretlen hiba történt.";
+        }
     }
 };
+
 
 window.fetchMyHighscoresByUserId = async function (userId) {
     try {

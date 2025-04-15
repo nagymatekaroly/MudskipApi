@@ -4,17 +4,15 @@
 @inject IJSRuntime JS
 @inject NavigationManager Nav
 
-<h3 class="title">🏆 Highscore Menü</h3>
+<h3 class="title">Ranglista</h3>
 
 <div class="form-container">
-    <button class="form-button" @onclick="LoadMyHighscores">🥇 My Highscore</button>
+    <button class="form-button" @onclick="@(() => Nav.NavigateTo("/myscores"))">Saját pontjaid</button>
 
-    @for (int i = 1; i <= 5; i++)
+    @foreach (var level in levelNameToId.Keys)
     {
-        <button class="form-button" @onclick="() => LoadLevelHighscores(i)">@($"{i}. Pálya")</button>
+        <button class="form-button" @onclick="() => LoadLevelHighscores(levelNameToId[level])">@level</button>
     }
-
-    <button class="form-button" @onclick="() => LoadLevelHighscores(6)">🎓 Tutorial</button>
 </div>
 
 @if (!string.IsNullOrEmpty(error))
@@ -22,38 +20,10 @@
     <p class="error-message">@error</p>
 }
 
-@if (scores != null && scores.Any())
-{
-    <div class="score-container">
-        @foreach (var score in scores)
-        {
-            <div class="score-row">
-                <span class="score-right">@score.LevelName</span>
-                <span class="score-left">@($"{score.Highscore} pont")</span>
-            </div>
-        }
-
-        @{
-            var allLevels = new List<string> { "Level 1", "Level 2", "Level 3", "Level 4", "Level 5", "Tutorial" };
-            var missingLevels = allLevels
-                .Where(level => scores.All(s => s.LevelName != level || s.Highscore <= 0))
-                .ToList();
-
-            if (missingLevels.Any())
-            {
-                <div style="margin-top: 20px; color: orange; text-align: center;">
-                    <p>❗ Nincs pontod a következő pályákon:</p>
-                    <p>@string.Join(", ", missingLevels)</p>
-                </div>
-            }
-        }
-    </div>
-}
-
 @if (ranking != null && ranking.Any())
 {
     <div class="score-container" style="margin-top: 30px;">
-        <h4 style="text-align: center; color: lime;">🏅 Ranglista – @GetLevelName(currentRankingLevelId)</h4>
+        <h4 style="text-align: center; color: lime;">@GetLevelName(currentRankingLevelId)</h4>
 
         @for (int i = 0; i < ranking.Count; i++)
         {
@@ -67,45 +37,22 @@
 
 @code {
     private string? error;
-    private List<MyScoreItem>? scores;
     private List<RankingScore>? ranking;
     private int currentRankingLevelId;
 
-    private async Task LoadMyHighscores()
+    private readonly Dictionary<string, int> levelNameToId = new()
     {
-        error = null;
-        scores = null;
-        ranking = null;
-
-        try
-        {
-            var userId = await JS.InvokeAsync<string>("localStorage.getItem", "userId");
-            if (string.IsNullOrEmpty(userId))
-            {
-                error = "Nem vagy bejelentkezve.";
-                return;
-            }
-
-            var response = await JS.InvokeAsync<string>("fetchMyHighscoresByUserId", userId);
-            if (!string.IsNullOrEmpty(response))
-            {
-                scores = JsonSerializer.Deserialize<List<MyScoreItem>>(response);
-            }
-            else
-            {
-                error = "Nem érkezett adat a szervertől.";
-            }
-        }
-        catch (Exception ex)
-        {
-            error = "Hiba történt: " + ex.Message;
-        }
-    }
+        { "Pálya 1", 1 },
+        { "Pálya 2", 2 },
+        { "Pálya 3", 3 },
+        { "Pálya 4", 4 },
+        { "Pálya 5", 5 },
+        { "Gyakorló pálya", 6 }
+    };
 
     private async Task LoadLevelHighscores(int levelId)
     {
         error = null;
-        scores = null;
         ranking = null;
         currentRankingLevelId = levelId;
 
@@ -130,25 +77,8 @@
         }
     }
 
-    private string GetLevelName(int levelId) => levelId switch
-    {
-        1 => "Level 1",
-        2 => "Level 2",
-        3 => "Level 3",
-        4 => "Level 4",
-        5 => "Level 5",
-        6 => "Tutorial",
-        _ => $"Pálya {levelId}"
-    };
-
-    public class MyScoreItem
-    {
-        [JsonPropertyName("levelName")]
-        public string LevelName { get; set; } = "";
-
-        [JsonPropertyName("highscore")]
-        public int Highscore { get; set; }
-    }
+    private string GetLevelName(int levelId) => levelNameToId
+        .FirstOrDefault(x => x.Value == levelId).Key ?? $"Pálya {levelId}";
 
     public class RankingScore
     {

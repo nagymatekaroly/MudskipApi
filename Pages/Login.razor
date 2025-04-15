@@ -26,7 +26,16 @@
 
     private async Task HandleLogin()
     {
+        error = null;
+
+        if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+        {
+            error = "Kérlek add meg a felhasználónevet és a jelszót!";
+            return;
+        }
+
         var result = await JS.InvokeAsync<string>("loginUser", username, password);
+
         if (result == "ok")
         {
             Nav.NavigateTo("/highscore", true);
